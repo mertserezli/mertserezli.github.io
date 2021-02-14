@@ -17,5 +17,5 @@ I will add save and load feature because exporting and importing can be nuisance
 
 I needed to prioritize and manage my todos. There wasn't a software which does prioritization by value/time criteria with calendar and periodic todos so I had to build this. 
 
-Github link: https://github.com/mertserezli/DayPlanner   
-Project link: https://dayplanner-f78c2.web.app/
+Github link: [https://github.com/mertserezli/DayPlanner](https://github.com/mertserezli/DayPlanner)   
+Project link: [https://dayplanner-f78c2.web.app/](https://dayplanner-f78c2.web.app/)

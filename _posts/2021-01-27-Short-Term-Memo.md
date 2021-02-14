@@ -14,8 +14,8 @@ I added export and import cards functions for things you need to know for a shor
 You can import information you need for a specific situation and memorize them beforehand.  
 In the next days I will to improve UI and add sound and image components to the cards.  
 With this project I learned about handling dates in firebase, firebase credential management, showing notifications in browser, spaced repetition and react contexts.   
-Github link: https://github.com/mertserezli/ShortTermMemorization   
-Project link: https://quizzical-jang-46a3c2.netlify.app/
+Github link: [https://github.com/mertserezli/ShortTermMemorization](https://github.com/mertserezli/ShortTermMemorization)   
+Project link: [https://quizzical-jang-46a3c2.netlify.app/](https://quizzical-jang-46a3c2.netlify.app/)
 ## How I use this
 I am studying Japanese so currently I am using this to learn kanji. I put 2-3 cards for each kanji I want to learn.  
 First one's front side is only kanji itself and backside is onyomi and kunyomi reading of the kanji.  
