@@ -20,7 +20,7 @@ There is code that you don't know the language. You can learn it but, it will ta
 - Learn it, then use spaced repetition apps like anki to keep your programming knowledge.
 - Check cheat sheets of the of topic you want to learn. To find cheat sheets, google "[subject] cheat sheet". E.g. "Lisp cheat sheet"
 
-##2. Lack of Information  
+## 2. Lack of Information  
 Issues in short term memory.  
 ### Example
 ```python
@@ -36,7 +36,7 @@ It is obvious that it sorts the array, but you may not know what algorithm it us
 - If it is something you won't need in the future, you can google it.
 - Play dual n-back from time to time to train your short term memory. Some researchers say it works and some say it doesn't work.  
 
-##3. Lack of Processing Power
+## 3. Lack of Processing Power
 Issues in working memory. 
 ### Example
 ```python
